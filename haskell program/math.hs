@@ -1,0 +1,1 @@
+multi x = x + x

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665393737 source:c:\users\prince carlos\desktop\c program\tvi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

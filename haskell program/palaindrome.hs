@@ -1,0 +1,1 @@
+palaindrome ch=ch==reverse ch

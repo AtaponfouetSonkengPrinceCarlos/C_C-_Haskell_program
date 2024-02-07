@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654675385 source:c:\users\prince carlos\desktop\class eleve\eleve\main.cpp
+	<iostream>
+	<string>
+	"eleve.h"
+
+1654675123 source:c:\users\prince carlos\desktop\class eleve\eleve\eleve.cxx
+	<iostream>
+	<string>
+	"eleve.h"
+
+1654675728 c:\users\prince carlos\desktop\class eleve\eleve\eleve.h
+

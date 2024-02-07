@@ -1,0 +1,22 @@
+
+using namespace std;
+ char eleve:: mention(int moyenne) const;
+{
+    switch (moyenne)
+    {
+    case 10 <= moyenne && moyenne < 10:
+        return "passable";
+    case 12 <= moyenne && moyenne < 14:
+        return "assez bien";
+    case 14 <= moyenne && moyenne < 16:
+        return "bien";
+    case 16 <= moyenne && moyenne < 18:
+        return tres bien;
+    case 18 <= moyenne && moyenne 20:
+        return "Excellent";
+    default :
+        return "il n existe pas ce type de moyenne";
+
+    }
+
+}

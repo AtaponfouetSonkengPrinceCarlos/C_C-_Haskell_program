@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\prince carlos\desktop\claas livre\livre\main.cpp
+	<iostream>
+
+1654685192 source:c:\users\prince carlos\desktop\claas livre\livre\livre.cxx
+	"Livre.h"
+	<string>
+
+1654687425 c:\users\prince carlos\desktop\claas livre\livre\livre.h
+	<string>
+

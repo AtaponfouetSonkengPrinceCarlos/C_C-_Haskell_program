@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1644991918 source:c:\users\jordan\desktop\tp1\math.cpp
+	"math.h"
+
+1644991814 c:\users\jordan\desktop\tp1\math.h
+	<vector>
+
+1645012091 source:c:\users\jordan\desktop\tp1\main.cpp
+	<iostream>
+	<string.h>
+	<ctime>
+	<cstdlib>
+
+1644987702 source:c:\users\jordan\desktop\tp1\math1.cpp
+	"math.h"
+
+1645007039 source:c:\users\jordan\desktop\tp1\file.cpp
+	<iostream>
+	<fstream>
+
+1645009643 source:c:\users\jordan\desktop\tp1\jeux.cpp
+	<iostream>
+	<string>
+

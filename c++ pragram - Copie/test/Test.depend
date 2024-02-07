@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648730764 source:c:\users\prince carlos\desktop\test\main.cpp
+	<iostream>
+	"math.h"
+
+1648730190 source:c:\users\prince carlos\desktop\test\math.cpp
+	"math.h"
+
+1648727787 c:\users\prince carlos\desktop\test\math.h
+

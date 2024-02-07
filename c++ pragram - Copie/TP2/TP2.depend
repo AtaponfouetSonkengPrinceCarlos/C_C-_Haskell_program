@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1645816934 source:c:\users\jordan\desktop\tp2\poo.cpp
+
+1645875322 source:c:\users\jordan\desktop\tp2\main.cpp
+	<iostream>
+	<string>
+	"personnage.h"
+	"Arme.h"
+
+1645875705 c:\users\jordan\desktop\tp2\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1645875668 source:c:\users\jordan\desktop\tp2\arme.cpp
+	<iostream>
+	<string>
+	"Arme.h"
+
+1645876404 c:\users\jordan\desktop\tp2\arme.h
+	<iostream>
+	<string>
+	"personnage.h"
+
+1645875322 source:c:\users\jordan\desktop\doc\tp2\main.cpp
+	<iostream>
+	<string>
+	"personnage.h"
+	"Arme.h"
+
+1648286294 c:\users\jordan\desktop\doc\tp2\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1645876404 c:\users\jordan\desktop\doc\tp2\arme.h
+	<iostream>
+	<string>
+	"personnage.h"
+
+1645816934 source:c:\users\jordan\desktop\doc\tp2\poo.cpp
+

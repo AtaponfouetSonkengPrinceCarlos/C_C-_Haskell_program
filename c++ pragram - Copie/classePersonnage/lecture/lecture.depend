@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654543828 source:c:\users\prince carlos\desktop\classepersonnage\lecture\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1666608961 source:e:\compilated program\c++ pragram\classepersonnage\lecture\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

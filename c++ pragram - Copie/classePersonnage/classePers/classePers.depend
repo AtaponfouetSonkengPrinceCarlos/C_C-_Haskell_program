@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1650741014 source:c:\users\prince carlos\desktop\classepersonnage\classepers\main.cpp
+	<iostream>
+
+1650832515 source:c:\users\prince carlos\desktop\classepersonnage\classepers\personnage.cxx
+	"Personnage.h"
+	<string>
+
+1651085712 c:\users\prince carlos\desktop\classepersonnage\classepers\personnage.h
+	<string>
+	<iostream>
+	"Arme.h"
+
+1651085692 source:c:\users\prince carlos\desktop\classepersonnage\classepers\main.cxx
+	<iostream>
+	"Personnage.h"
+	"Arme.h"
+
+1651078480 source:c:\users\prince carlos\desktop\classepersonnage\classepers\arme.cxx
+	"Arme.h"
+	<iostream>
+	<string>
+
+1651081293 c:\users\prince carlos\desktop\classepersonnage\classepers\arme.h
+	<iostream>
+	<string>
+
